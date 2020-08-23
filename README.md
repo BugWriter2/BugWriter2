@@ -10,5 +10,6 @@
         <br> and writing my own python learning notes :sparkles:<br><br>
         <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     </samp>
+    <br>
+    <sub>design is stolen from @pifafu</sub>
 </p>
-
