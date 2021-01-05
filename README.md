@@ -6,7 +6,7 @@
     <br><br>
     <samp>
         :wave: Hi there!
-        <br>My current interet focuses on contritubing to RSSHub
+        <br>My current interest focuses on contritubing to RSSHub
         <br> and writing my own python learning notes :sparkles:<br><br>
         <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     </samp>
